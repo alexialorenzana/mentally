@@ -27,6 +27,7 @@ We want to provide education and information to those seeking or receiving menta
 	- Chat that allows you to communicate with Mentally Staff
 	- Chat history is saved to the admin dashboard
 - Sign Up / Log In
+	- Register to become Mentally member
 	- admin dashboard (For Mentally staff)
 	- Member dashboard
 
