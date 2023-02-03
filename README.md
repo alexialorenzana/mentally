@@ -107,7 +107,7 @@ To Stop the app from working all you wanna do is either kill the terminal or ope
 
 ## Authors
 - Alexia Lorenzana
-- Aida Arias
+- Aida Arias Flores
 - Y-Jacob Mlo
 - Alannah Gregory
 - Said Guzman Zaragoza
