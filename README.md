@@ -101,9 +101,7 @@ To Stop the app from working all you wanna do is either kill the terminal or ope
 - BcryptjS
 - Cookie-parser
 - Jsonwebtoken
-- Multer
 - Nodemon
-- Socket.io
 
 ## Authors
 - Alexia Lorenzana
