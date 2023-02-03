@@ -38,7 +38,7 @@ In order to begin using our app.....
 Download the app to your local machine. Delete all the "package-lock.json" files. Next, open a terminal and go to the api directory(cd api) and do a npm install. Open another terminal and go to the client directory (cd client) and do a npm install. 
 
 To get the app running 
-You will open a terminal for your api (cd api) and then npm start. And open another terminal for your client folder (cd client) and do another npm start. If you accidently kill ther terminal this is how you would get the app up and running again.
+You will open a terminal for your api (cd api) and then npm start.
 
 
 To get conneted with the mysql database you are going to go in the "api" folder and go to the "db.js" file and change the mysql info to your personal info
@@ -97,7 +97,6 @@ To Stop the app from working all you wanna do is either kill the terminal or ope
 - Express.js - Used for routes and endpoints
 - Cors
 - Axios
-- MySQL 2
 - MySQL
 - BcryptjS
 - Cookie-parser
